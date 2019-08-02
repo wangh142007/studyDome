@@ -1,0 +1,6 @@
+
+tsquid:UselessImportCheck"DRemove this unused import 'org.springframework.jdbc.core.RowMapper'.(¦¬ÀÙùÿÿÿÿ8öÕúãÄ-
+Ysquid:UselessImportCheck
+"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8‰”úãÄ-
+]squid:UselessImportCheck"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8‰”úãÄ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É’ÌÏ

@@ -1,0 +1,4 @@
+
+[squid:S1155">Use isEmpty() to check whether the collection is empty or not.(…µñ8«§òãÄ-
+wsquid:UselessImportCheck"GRemove this unused import 'org.springframework.jdbc.core.JdbcTemplate'.(å ê‹ÿÿÿÿÿ8¿ö†äÄ-
+asquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ûÑ€ûøÿÿÿÿ8œøñãÄ-

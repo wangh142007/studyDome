@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7915fb8d-5409-45af-8223-b6fc93de26ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring17_accountAOP_anno/src/main/java/com/wh/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring17_accountAOP_anno/src/main/java/com/wh/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring17_accountAOP_anno/src/main/java/com/wh/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring17_accountAOP_anno/src/main/java/com/wh/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring17_accountAOP_anno/src/main/java/com/wh/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring17_accountAOP_anno/src/main/java/com/wh/utils/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring17_accountAOP_anno/src/main/java/com/wh/utils/TransactionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring17_accountAOP_anno/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring17_accountAOP_anno/src/test/java/com/wh/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring18_tx/src/main/java/com/wh/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring18_tx/src/main/java/com/wh/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring18_tx/src/main/java/com/wh/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring18_tx/src/main/java/com/wh/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring18_tx/src/main/java/com/wh/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring18_tx/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring18_tx/src/test/java/com/wh/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring19_tx_xml/src/main/java/com/wh/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring19_tx_xml/src/main/java/com/wh/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring19_tx_xml/src/main/java/com/wh/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring19_tx_xml/src/main/java/com/wh/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring19_tx_xml/src/main/java/com/wh/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring19_tx_xml/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring19_tx_xml/src/test/java/com/wh/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring20_account_tx/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring20_tx_anno/src/main/java/com/wh/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring20_tx_anno/src/main/java/com/wh/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring20_tx_anno/src/main/java/com/wh/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring20_tx_anno/src/main/java/com/wh/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring20_tx_anno/src/main/java/com/wh/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring20_tx_anno/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring20_tx_anno/src/test/java/com/wh/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/SpringConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/TransactionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wh/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wh/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wh/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wh/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wh/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wh/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring22_account_tx/src/main/java/com/wh/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring22_account_tx/src/main/java/com/wh/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring22_account_tx/src/main/java/com/wh/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring22_account_tx/src/main/java/com/wh/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring22_account_tx/src/main/java/com/wh/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring22_account_tx/src/main/java/com/wh/utils/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring22_account_tx/src/main/java/com/wh/utils/TransactionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring22_account_tx/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring22_account_tx/src/test/java/com/wh/test/AccountServiceTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1OrNck54I5D4voHawwoXS5g2HYz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/wh/test" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\spring\studySpring\spring21_anno_tx_withouxml\src\test\java\com\wh\test" />
+      <recent name="E:\spring\studySpring\spring21_anno_tx_withouxml\src\main\java\com\wh" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest">
+    <configuration name="AccountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring21_anno_tx_withouxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wh.test.AccountServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring21_anno_tx_withouxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wh.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest" />
+        <item itemvalue="JUnit.AccountServiceTest.testTransfer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7915fb8d-5409-45af-8223-b6fc93de26ec" name="Default Changelist" comment="" />
+      <created>1564731836363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564731836363</updated>
+      <workItem from="1564731837590" duration="1435000" />
+      <workItem from="1564733683834" duration="165000" />
+      <workItem from="1564734118417" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

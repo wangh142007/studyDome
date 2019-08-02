@@ -1,0 +1,7 @@
+
+fsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(äÕº8¼š¨÷½-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°¤‰8é—ï÷½-
+>squid:S2068" Remove this hard-coded password.(äÕº8¼š¨÷½-
+rsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ş·…¿ÿÿÿÿÿ8‚‚¬÷½-
+esquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(İ·Øï8öû®÷½-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›¶¶úÿÿÿÿ

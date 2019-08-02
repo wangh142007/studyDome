@@ -1,0 +1,8 @@
+
+squid:UselessImportCheck	"fRemove this unused import 'org.springframework.context.annotation.AnnotationConfigApplicationContext'.(€¡¹;8Ûò£¢À-
+squid:UselessImportCheck"`Remove this unused import 'org.springframework.context.support.FileSystemXmlApplicationContext'.(Àãûÿÿÿÿ8˜Ô¥¢À-
+|squid:UselessImportCheck"QRemove this unused import 'org.springframework.beans.factory.xml.XmlBeanFactory'.(áô´ê8ÅÓ¤¢À-
+zsquid:UselessImportCheck"JRemove this unused import 'org.springframework.core.io.ClassPathResource'.(İ¹º§ıÿÿÿÿ8ÅÓ¤¢À-
+lsquid:UselessImportCheck"ARemove this unused import 'org.springframework.core.io.Resource'.(¹ÒÁ8ÅÓ¤¢À-
+zsquid:UselessImportCheck"JRemove this unused import 'org.springframework.beans.factory.BeanFactory'.(ĞÚû±ıÿÿÿÿ8ÅÓ¤¢À-
+]squid:UselessImportCheck"3Remove this unused import 'com.wh.dao.IAccountDao'.(²Êµu8èß¯¢À-
